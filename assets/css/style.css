@@ -1,0 +1,33 @@
+.header1{
+    background-color: green;
+    
+}
+.nav{
+    background-color: green;
+}
+.section{
+    background-color: orangered;
+
+}
+.aside {
+    background-color: plum;
+ 
+}
+.footer{
+    background-color: blue;
+    margin-top: 400px;
+}
+.header2{
+    background-color: grey;
+}
+.article{
+    background-color: grey;
+}
+.footer1 {
+    background-color: grey;
+}
+.tri{
+    float: left;
+    margin: 0 1.5%;
+    width: 30%;
+}
